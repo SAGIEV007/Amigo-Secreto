@@ -4,6 +4,12 @@
 ![Tecnologia](https://img.shields.io/badge/tecnologia-JavaScript-yellow)
 ![Licença](https://img.shields.io/badge/licença-MIT-blue)
 
+<p align="center">
+  <img width="500" alt="Preview da Aplicação Amigo Secreto" src="https://github.com/user-attachments/assets/f2311723-8f4b-4eee-a3bf-0487b9146f30">
+<img width="510" alt="image" src="https://github.com/user-attachments/assets/fb95e915-1c06-4aa0-bcbf-4f4513f73763" />
+
+</p>
+
 ## 🚀 Demonstração Online
 
 **Você pode testar a aplicação ao vivo acessando o link abaixo:**
